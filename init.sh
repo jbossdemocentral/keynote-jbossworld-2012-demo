@@ -4,7 +4,7 @@ JBOSS_HOME=./target/jboss-eap-6.0
 SERVER_DIR=$JBOSS_HOME/standalone
 SRC_DIR=./installs
 EAP=jboss-eap-6.0.0.zip
-JBWKEYNOTE=git@github.com:eschabell/jboss-keynote-2012.git
+JBWKEYNOTE=git@github.com:jbossdemocentral/jboss-keynote-2012.git
 
 
 echo
